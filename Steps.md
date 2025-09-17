@@ -28,3 +28,8 @@ Make sure root project is synch with Remote repository. if not
 <git remote add origin https://github.com/Danieldj007/Githup_Trianing_Project.git>
 To push into Remote repository from loacl repository 
 <git push>
+
+if it not allow push then follow this..
+<git pull>
+<git pull origin main --allow-unrelated-histories>
+then repet the steps 
